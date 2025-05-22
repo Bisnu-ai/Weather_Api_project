@@ -30,22 +30,11 @@ Writing JavaScript functions to handle user input and API response
 
 Structuring responsive UI using CSS
 
-🖼️ Screenshots
-(Add a screenshot or demo gif here if possible)
-
-📝 How to Use
-Clone the repo:
-
-bash
-Copy
-Edit
-git clone https://github.com/Bisnu-ai/Weather-Api_project.git
-Open index.html in your browser.
-
 Enter a city name and press enter to get the weather details.
 
+
 📂 Folder Structure
-pgsql
+yaml
 Copy
 Edit
 weather-app/
@@ -53,6 +42,7 @@ weather-app/
 ├── index.html
 ├── style.css
 ├── script.js
+├── Screenshot 2025-05-23 002024.png
 └── README.md
 🌟 Contributing
 Feel free to fork this project and contribute by submitting a pull request. All improvements are welcome!
@@ -61,3 +51,4 @@ Feel free to fork this project and contribute by submitting a pull request. All 
 If you have any questions or feedback, feel free to reach out:
 📧 sambunu2003@gmail.com
 🔗 GitHub: Bisnu-ai
+
